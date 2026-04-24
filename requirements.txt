@@ -1,0 +1,9 @@
+numpy
+pandas
+librosa
+scikit-learn
+torch
+torchaudio
+fastapi
+uvicorn
+python-multipart
